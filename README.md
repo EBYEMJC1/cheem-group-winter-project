@@ -24,27 +24,27 @@
         * magniudes **between (distance)** points in vectors
             * A,B
                 * total distance
-                    * d=√((x<sub>2</sub> - x~1~)^2^ + (y~2~ - y~1~)^2^)
-                        * (x~2~ - x~1~)^2^ lets create a new varible to contain this value call it x~3~
-                            * x~2~ - x~1~ = 7 - 3 = 4
-                            * 4^2^ = 16 == x~3~
-                        *  (y~2~ - y~1~)^2^ lets create a new varible to contain this value call it y~3~
-                            *  y~2~ - y~1~ = 5 - 4 = 1
-                            *  1^2^ = 1 == y~3~
-                        * √((x~2~ - x~1~)^2^ + (y~2~ - y~1~)^2^) == √(x~3~ + y~3~)
-                        * √(x~3~ +y~3~) = √(16+1)= **√17=~4**
+                    * d=√((x<sub>2</sub> - x<sub>1</sub>)^2^ + (y<sub>2</sub> - y<sub>1</sub>)^2^)
+                        * (x<sub>2</sub> - x<sub>1</sub>)^2^ lets create a new varible to contain this value call it x<sub>3</sub>
+                            * x<sub>2</sub> - x<sub>1</sub> = 7 - 3 = 4
+                            * 4^2^ = 16 == x<sub>3</sub>
+                        *  (y<sub>2</sub> - y<sub>1</sub>)^2^ lets create a new varible to contain this value call it y<sub>3</sub>
+                            *  y<sub>2</sub> - y<sub>1</sub> = 5 - 4 = 1
+                            *  1^2^ = 1 == y<sub>3</sub>
+                        * √((x<sub>2</sub> - x<sub>1</sub>)^2^ + (y<sub>2</sub> - y<sub>1</sub>)^2^) == √(x<sub>3</sub> + y<sub>3</sub>)
+                        * √(x<sub>3</sub> +y<sub>3</sub>) = √(16+1)= **√17=~4**
       
             * A,C
                 * total distance
-                    * d=√((x~2~ - x~1~)^2^ + (y~2~ - y~1~)^2^)
-                        * (x~2~ - x~1~)^2^ lets create a new varible to contain this value call it x~3~
-                            * x~2~ - x~1~ = -3 - 3 = -6
-                            * (-6)^2^ = 36 == x~3~
-                        *  (y~2~ - y~1~)^2^ lets create a new varible to contain this value call it y~3~
+                    * d=√((x<sub>2</sub> - x<sub>1</sub>)^2^ + (y<sub>2</sub> - y<sub>1</sub>)^2^)
+                        * (x<sub>2</sub> - x<sub>1</sub>)^2^ lets create a new varible to contain this value call it x<sub>3</sub>
+                            * x<sub>2</sub> - x<sub>1</sub> = -3 - 3 = -6
+                            * (-6)^2^ = 36 == x<sub>3</sub>
+                        *  (y<sub>2</sub> - y<sub>1</sub>)^2^ lets create a new varible to contain this value call it y<sub>3</sub>
                             *  y~2 - y~1 = -4 - 4 = -8
-                            *  (-8)^2^ = 64 == y~3~
-                        * √((x~2~ - x~1~)^2^ + (y~2~ - y~1~)^2^) == √(x~3~ + y~3~)
-                        * √(x~3~ + y~3~) = √(36+64)= **√100=10**
+                            *  (-8)^2^ = 64 == y<sub>3</sub>
+                        * √((x<sub>2</sub> - x<sub>1</sub>)^2^ + (y<sub>2</sub> - y<sub>1</sub>)^2^) == √(x<sub>3</sub> + y<sub>3</sub>)
+                        * √(x<sub>3</sub> + y<sub>3</sub>) = √(36+64)= **√100=10**
               * 10>4 so distance A,C > A,B
        
         * directions between points in vectors
