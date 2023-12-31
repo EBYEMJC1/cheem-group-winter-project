@@ -1,3 +1,3 @@
-### Dot product
-####        Basic dot product
-####        Dot product with cosine
+### Dot Product
+  #### Basic Dot Product
+  #### Dot Product with Cosine
