@@ -24,7 +24,7 @@
         * magniudes **between (distance)** points in vectors
             * A,B
                 * total distance
-                    * d=√((x~2~ - x~1~)^2^ + (y~2~ - y~1~)^2^)
+                    * d=√((x<sub>2</sub> - x~1~)^2^ + (y~2~ - y~1~)^2^)
                         * (x~2~ - x~1~)^2^ lets create a new varible to contain this value call it x~3~
                             * x~2~ - x~1~ = 7 - 3 = 4
                             * 4^2^ = 16 == x~3~
