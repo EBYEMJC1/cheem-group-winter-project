@@ -1,10 +1,10 @@
 *   # Dot product
     * Indicates how close two vectors are
         * vectors have both a magnitude and direction
-          * magnitude is like how much or
-                * like the distance away from 0
-                * can be thought of as absolute value or
-                * squared value because it results in positive
+              * magnitude is like how much or
+                   * like the distance away from 0
+                   * can be thought of as absolute value or
+                   * squared value because it results in positive
             * Direction is like which way
                 * like up, down, left, right
             * An example
@@ -49,7 +49,12 @@
        
         * directions between points in vectors
             *  A,B
-                * 
+                * sin example when to use and what means
+                * cos
+                * tan
+                * arcsin
+                * arccos
+                * arctan
   
             *  A,C
                 *  
