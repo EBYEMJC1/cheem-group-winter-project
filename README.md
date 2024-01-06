@@ -1,5 +1,6 @@
 *   # Dot product
-    * Indicates the amount two vectors go in the same direction/how parallel two lines are/if a light was shown on vector A (a hypotunous of a right traingle) on what part would the shadow of vector A show on vector B (another vector of the right triangle) [more in depth explination](https://www.khanacademy.org/math/linear-algebra/vectors-and-spaces/dot-cross-products/v/dot-and-cross-product-comparison-intuition) / how similiar two vectors are
+    * Measures the extent to which vectors align or go in the same direction, indicating their parallelism or similarity
+          * If vector A is the hypotenuse of a right triangle and vector B is another vector, the dot product reveals how much of vector A projects onto vector B which symbolizes the shadow cast by vector A onto vector B when illuminated by a hypothetical light source [more in depth explination](https://www.khanacademy.org/math/linear-algebra/vectors-and-spaces/dot-cross-products/v/dot-and-cross-product-comparison-intuition) / how similiar two vectors are
         * vectors have both a magnitude and direction
               * magnitude is like how much or
               * like the distance away from 0
