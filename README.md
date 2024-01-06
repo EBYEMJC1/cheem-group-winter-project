@@ -1,10 +1,10 @@
 *   # Dot product
-    * Indicates how close two vectors are
+    * Indicates the amount two vectors go in the same direction/how parallel two lines are/if a light was shown on vector A (a hypotunous of a right traingle) on what part would the shadow of vector A show on vector B (another vector of the right triangle) [more in depth explination](https://www.khanacademy.org/math/linear-algebra/vectors-and-spaces/dot-cross-products/v/dot-and-cross-product-comparison-intuition) / how similiar two vectors are
         * vectors have both a magnitude and direction
               * magnitude is like how much or
-                   * like the distance away from 0
-                   * can be thought of as absolute value or
-                   * squared value because it results in positive
+              * like the distance away from 0
+              * can be thought of as absolute value or
+                    * squared value because it results in positive
             * Direction is like which way
                 * like up, down, left, right
             * An example
@@ -41,7 +41,7 @@
                             * x<sub>2</sub> - x<sub>1</sub> = -3 - 3 = -6
                             * (-6)<sup>2</sup> = 36 == x<sub>3</sub>
                         *  (y<sub>2</sub> - y<sub>1</sub>)<sup>2</sup> lets create a new varible to contain this value call it y<sub>3</sub>
-                            *  y~2 - y~1 = -4 - 4 = -8
+                            *  y<sub>2</sub> - y<sub>1</sub> = -4 - 4 = -8
                             *  (-8)<sup>2</sup> = 64 == y<sub>3</sub>
                         * √((x<sub>2</sub> - x<sub>1</sub>)<sup>2</sup> + (y<sub>2</sub> - y<sub>1</sub>)<sup>2</sup>) == √(x<sub>3</sub> + y<sub>3</sub>)
                         * √(x<sub>3</sub> + y<sub>3</sub>) = √(36+64)= **√100=10**
